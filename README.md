@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-vivek12&show_icons=true&locale=en" alt="m-vivek12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-vivek12&" alt="m-vivek12" /></p>
